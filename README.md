@@ -200,11 +200,6 @@ git clone https://github.com/your-org/GarageMaster.git
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
-
----
 
 <div align="center">
   Built with ❤️ using <strong>Kotlin</strong> & <strong>Jetpack Compose</strong><br>
