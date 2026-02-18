@@ -1,4 +1,4 @@
-# 🔧 GarageMaster
+# 🔧 Auto Nexa
 
 > A professional garage management system for modern auto workshops — built natively for Android with Jetpack Compose.
 
