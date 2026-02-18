@@ -1,0 +1,17 @@
+```
+getWorkerByIdUseCase(workerId)
+    .filterNotNull()
+    .collect { worker ->
+        _uiState.update {
+            it.copy(
+                isLoading = false,
+                worker = worker,
+                error = null
+            )
+        }
+    }
+```
+
+Cannot infer type for this parameter. Specify it explicitly.
+and in "val result = updateWorkerStatusUseCase(     UpdateWorkerStatusUseCase.Params(         workerId = workerId,         status = newStatus     ) )" No value passed for parameter 'status'.
+Unresolved reference 'Params'.

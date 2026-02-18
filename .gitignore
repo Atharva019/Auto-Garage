@@ -1,0 +1,55 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+captures/
+.externalNativeBuild
+.cxx
+*.iml
+
+# Android Studio
+*.ipr
+*.iws
+.idea/
+/build
+/*/build
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Generated files
+/app/build/
+/build/
+
+# User-specific files
+*.swp
+*~
+.DS_Store
+
+# Key store files
+*.jks
+*.keystore
+
+# Google Services
+google-services.json
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Secrets
+secrets.properties
+local.properties
